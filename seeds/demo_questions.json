@@ -1,0 +1,210 @@
+[
+ {
+  "external_id": "DEMO-001",
+  "language": "bn",
+  "stem": "নিচের কোনটি ভেক্টর রাশি?",
+  "options": {
+   "A": "ভর",
+   "B": "দ্রুতি",
+   "C": "সরণ",
+   "D": "কাজ"
+  },
+  "answer": "C",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-002",
+  "language": "bn",
+  "stem": "বলের এসআই একক কোনটি?",
+  "options": {
+   "A": "জুল",
+   "B": "নিউটন",
+   "C": "ওয়াট",
+   "D": "প্যাসকেল"
+  },
+  "answer": "B",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-003",
+  "language": "bn",
+  "stem": "একটি গাড়ি ২০ মিটার/সেকেন্ড বেগে ১০ সেকেন্ড চললে অতিক্রান্ত দূরত্ব কত?",
+  "options": {
+   "A": "২ মিটার",
+   "B": "৩০ মিটার",
+   "C": "২০০ মিটার",
+   "D": "২০০০ মিটার"
+  },
+  "answer": "C",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-004",
+  "language": "bn",
+  "stem": "ঘর্ষণ বল কেন গতির বিপরীতে ক্রিয়া করে?",
+  "options": {
+   "A": "স্পর্শতলের অসমতার কারণে",
+   "B": "ভরের কারণে",
+   "C": "অভিকর্ষের কারণে",
+   "D": "চাপের কারণে"
+  },
+  "answer": "A",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-005",
+  "language": "bn",
+  "stem": "তাপমাত্রা বাড়লে শব্দের বেগ—",
+  "options": {
+   "A": "কমে",
+   "B": "বাড়ে",
+   "C": "অপরিবর্তিত থাকে",
+   "D": "শূন্য হয়"
+  },
+  "answer": "B",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-006",
+  "language": "bn",
+  "stem": "আলোর প্রতিসরণের ক্ষেত্রে নিচের কোন উক্তিগুলো সঠিক? i. মাধ্যম পরিবর্তনে আলোর দিক বদলায় ii. আলোর বেগ বদলায় iii. আলোর কম্পাঙ্ক বদলায়",
+  "options": {
+   "A": "i ও ii",
+   "B": "i ও iii",
+   "C": "ii ও iii",
+   "D": "i, ii ও iii"
+  },
+  "answer": "A",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-007",
+  "language": "bn",
+  "stem": "৫ কেজি ভরের বস্তুর উপর ১০ নিউটন বল প্রয়োগ করলে ত্বরণ কত হবে?",
+  "options": {
+   "A": "০.৫ মি/সে²",
+   "B": "২ মি/সে²",
+   "C": "৫ মি/সে²",
+   "D": "৫০ মি/সে²"
+  },
+  "answer": "B",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-008",
+  "language": "bn",
+  "stem": "বিদ্যুৎ প্রবাহের একক কী?",
+  "options": {
+   "A": "ভোল্ট",
+   "B": "ওহম",
+   "C": "অ্যাম্পিয়ার",
+   "D": "ওয়াট"
+  },
+  "answer": "C",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-009",
+  "language": "bn",
+  "stem": "চাপের এসআই একক কোনটি?",
+  "options": {
+   "A": "নিউটন",
+   "B": "প্যাসকেল",
+   "C": "জুল",
+   "D": "কেলভিন"
+  },
+  "answer": "B",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-010",
+  "language": "bn",
+  "stem": "কাজ ও শক্তির মধ্যে সম্পর্ক কী?",
+  "options": {
+   "A": "একই একক",
+   "B": "ভিন্ন একক",
+   "C": "কাজ শক্তির বর্গ",
+   "D": "কোনো সম্পর্ক নেই"
+  },
+  "answer": "A",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-011",
+  "language": "en",
+  "stem": "Which of the following is a vector quantity?",
+  "options": {
+   "A": "Mass",
+   "B": "Speed",
+   "C": "Displacement",
+   "D": "Work"
+  },
+  "answer": "C",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-012",
+  "language": "en",
+  "stem": "What is the SI unit of power?",
+  "options": {
+   "A": "Joule",
+   "B": "Watt",
+   "C": "Newton",
+   "D": "Pascal"
+  },
+  "answer": "B",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-013",
+  "language": "en",
+  "stem": "A body of mass 2 kg moves with velocity 3 m/s. What is its kinetic energy?",
+  "options": {
+   "A": "3 J",
+   "B": "6 J",
+   "C": "9 J",
+   "D": "18 J"
+  },
+  "answer": "C",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-014",
+  "language": "en",
+  "stem": "Why does a ball thrown upward come back down?",
+  "options": {
+   "A": "Because of friction",
+   "B": "Because of gravity",
+   "C": "Because of inertia",
+   "D": "Because of buoyancy"
+  },
+  "answer": "B",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-015",
+  "language": "en",
+  "stem": "Which of the following statements about sound are correct? i. Sound needs a medium ii. Sound travels faster in solids than in air iii. Sound travels in vacuum",
+  "options": {
+   "A": "i and ii",
+   "B": "i and iii",
+   "C": "ii and iii",
+   "D": "i, ii and iii"
+  },
+  "answer": "A",
+  "source": "Dishari demo (handmade)"
+ },
+ {
+  "external_id": "DEMO-016",
+  "language": "en",
+  "stem": "What is the unit of electric resistance?",
+  "options": {
+   "A": "Volt",
+   "B": "Ampere",
+   "C": "Ohm",
+   "D": "Coulomb"
+  },
+  "answer": "C",
+  "source": "Dishari demo (handmade)"
+ }
+]

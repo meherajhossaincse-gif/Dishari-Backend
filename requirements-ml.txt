@@ -1,0 +1,6 @@
+# Extra packages the REAL ML model needs inside the API container (Razzaque fills this in).
+# Examples - uncomment what the model uses, then: docker compose build api
+# torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+# transformers==4.47.1
+# scikit-learn==1.6.0
+# joblib==1.4.2

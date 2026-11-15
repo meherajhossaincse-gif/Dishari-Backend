@@ -1,0 +1,51 @@
+# Run everything:   docker compose up --build
+# API docs:         http://localhost:8000/docs
+# DB browser:       http://localhost:8080  (system: PostgreSQL, server: db, user/pass/db: dishari)
+services:
+  db:
+    image: postgres:15
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: dishari
+      POSTGRES_PASSWORD: dishari
+      POSTGRES_DB: dishari
+    ports:
+      - "5433:5432"   # host 5433 so it never clashes with another local Postgres
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U dishari -d dishari"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+
+  api:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://dishari:dishari@db:5432/dishari
+      UVICORN_EXTRA: --reload
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./app:/app/app               # live code reload while developing
+      - ./alembic:/app/alembic
+      - ./seeds:/app/seeds
+      - ./ml_package:/app/ml_package # Razzaque: put the model's Python package here
+      - ./ml_models:/app/ml_models   # Razzaque: put model weights here (ml_models/current/...)
+      - ./storage:/app/storage       # bulk results files
+
+  adminer:
+    image: adminer:4
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+
+volumes:
+  pgdata:
