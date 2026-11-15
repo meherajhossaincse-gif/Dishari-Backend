@@ -1,0 +1,1892 @@
+{
+ "version": "2026.1",
+ "source": "Names extracted from EN/BN gold datasets (taxonomy only, no questions)",
+ "chapters": [
+  {
+   "id": "1",
+   "name_en": "Physical Quantities and Their Measurements",
+   "name_bn": "ভৌত রাশি এবং তাদের পরিমাপ",
+   "concepts": [
+    {
+     "id": "C01.1",
+     "name_en": "Development and scope of physics",
+     "name_bn": "পদার্থবিজ্ঞানের ক্রমবিকাশ ও পরিসর",
+     "topics": [
+      {
+       "id": "1.1",
+       "name_en": "Physics",
+       "name_bn": "পদার্থবিজ্ঞান",
+       "needs_translation": false
+      },
+      {
+       "id": "1.2",
+       "name_en": "Scope of physics",
+       "name_bn": "পদার্থবিজ্ঞানের পরিসর",
+       "needs_translation": false
+      },
+      {
+       "id": "1.3",
+       "name_en": "Development of physics",
+       "name_bn": "পদার্থবিজ্ঞানের ক্রমবিকাশ",
+       "needs_translation": false
+      },
+      {
+       "id": "1.3.1",
+       "name_en": "Initial stage of science",
+       "name_bn": "প্রাথমিক যুগ",
+       "needs_translation": false
+      },
+      {
+       "id": "1.3.2",
+       "name_en": "Rising stage of science",
+       "name_bn": "বিজ্ঞানের উত্থানের যুগ",
+       "needs_translation": false
+      },
+      {
+       "id": "1.3.3",
+       "name_en": "Introduction to modern physics",
+       "name_bn": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+       "needs_translation": false
+      },
+      {
+       "id": "1.3.4",
+       "name_en": "Contemporary physics",
+       "name_bn": "সাম্প্রতিক পদার্থবিজ্ঞান",
+       "needs_translation": false
+      },
+      {
+       "id": "1.3.5",
+       "name_en": "Contributions of Jagadish Chandra Bose",
+       "name_bn": "জগদীশচন্দ্র বসুর অবদান",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C01.2",
+     "name_en": "Objectives of physics",
+     "name_bn": "পদার্থবিজ্ঞানের উদ্দেশ্য",
+     "topics": [
+      {
+       "id": "1.4",
+       "name_en": "Objectives of physics",
+       "name_bn": "পদার্থবিজ্ঞানের উদ্দেশ্য",
+       "needs_translation": false
+      },
+      {
+       "id": "1.4.1",
+       "name_en": "Unfolding the mystery of nature",
+       "name_bn": "প্রকৃতির রহস্য উন্মোচন",
+       "needs_translation": false
+      },
+      {
+       "id": "1.4.2",
+       "name_en": "Knowing the laws of nature",
+       "name_bn": "প্রকৃতির নিয়ম জানা",
+       "needs_translation": false
+      },
+      {
+       "id": "1.4.3",
+       "name_en": "Developing technology using the laws of nature",
+       "name_bn": "প্রকৃতির নিয়ম ব্যবহার করে প্রযুক্তির বিকাশ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C01.3",
+     "name_en": "Physical quantities and SI units",
+     "name_bn": "ভৌত রাশি ও এসআই একক",
+     "topics": [
+      {
+       "id": "1.5",
+       "name_en": "Physical quantities and their measurement",
+       "name_bn": "ভৌত রাশি ও তাদের পরিমাপ",
+       "needs_translation": false
+      },
+      {
+       "id": "1.5.1",
+       "name_en": "Units of measurement",
+       "name_bn": "পরিমাপের একক",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C01.4",
+     "name_en": "Prefixes and scientific notation",
+     "name_bn": "উপসর্গ ও বৈজ্ঞানিক প্রতীক",
+     "topics": [
+      {
+       "id": "1.5.2",
+       "name_en": "Prefix",
+       "name_bn": "উপসর্গ",
+       "needs_translation": false
+      },
+      {
+       "id": "1.5.4",
+       "name_en": "Scientific symbols and notations",
+       "name_bn": "বৈজ্ঞানিক প্রতীক ও সংকেত",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C01.5",
+     "name_en": "Dimensions",
+     "name_bn": "মাত্রা",
+     "topics": [
+      {
+       "id": "1.5.3",
+       "name_en": "Dimension",
+       "name_bn": "মাত্রা",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C01.6",
+     "name_en": "Measuring instruments",
+     "name_bn": "পরিমাপের যন্ত্রপাতি",
+     "topics": [
+      {
+       "id": "1.6",
+       "name_en": "Measuring instruments",
+       "name_bn": "পরিমাপের যন্ত্রপাতি",
+       "needs_translation": false
+      },
+      {
+       "id": "1.6.1",
+       "name_en": "Scale, vernier calipers and screw gauge",
+       "name_bn": "স্কেল, স্লাইড ক্যালিপার্স ও স্ক্রু গজ",
+       "needs_translation": false
+      },
+      {
+       "id": "1.6.2",
+       "name_en": "Balance",
+       "name_bn": "নিক্তি",
+       "needs_translation": false
+      },
+      {
+       "id": "1.6.3",
+       "name_en": "Stop watch",
+       "name_bn": "থামা ঘড়ি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C01.7",
+     "name_en": "Error and accuracy",
+     "name_bn": "ত্রুটি ও নির্ভুলতা",
+     "topics": [
+      {
+       "id": "1.7",
+       "name_en": "Error and accuracy",
+       "name_bn": "ত্রুটি ও নির্ভুলতা",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "name_en": "Motion",
+   "name_bn": "গতি",
+   "concepts": [
+    {
+     "id": "C02.1",
+     "name_en": "Rest, motion and types of motion",
+     "name_bn": "স্থিতি, গতি ও গতির প্রকারভেদ",
+     "topics": [
+      {
+       "id": "2.1",
+       "name_en": "Rest and motion",
+       "name_bn": "স্থিতি ও গতি",
+       "needs_translation": false
+      },
+      {
+       "id": "2.2",
+       "name_en": "Different types of motion",
+       "name_bn": "গতির প্রকারভেদ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C02.2",
+     "name_en": "Scalar and vector quantities",
+     "name_bn": "স্কেলার ও ভেক্টর রাশি",
+     "topics": [
+      {
+       "id": "2.3",
+       "name_en": "Scalar and vector quantities",
+       "name_bn": "স্কেলার ও ভেক্টর রাশি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C02.3",
+     "name_en": "Distance and displacement",
+     "name_bn": "দূরত্ব ও সরণ",
+     "topics": [
+      {
+       "id": "2.4",
+       "name_en": "Distance and displacement",
+       "name_bn": "দূরত্ব ও সরণ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C02.4",
+     "name_en": "Speed, velocity and motion graphs",
+     "name_bn": "দ্রুতি, বেগ ও গতির লেখচিত্র",
+     "topics": [
+      {
+       "id": "2.5",
+       "name_en": "Speed and velocity",
+       "name_bn": "দ্রুতি ও বেগ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C02.5",
+     "name_en": "Acceleration and retardation",
+     "name_bn": "ত্বরণ ও মন্দন",
+     "topics": [
+      {
+       "id": "2.6",
+       "name_en": "Acceleration and deceleration",
+       "name_bn": "ত্বরণ ও মন্দন",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C02.6",
+     "name_en": "Equations of motion",
+     "name_bn": "গতির সমীকরণ",
+     "topics": [
+      {
+       "id": "2.7",
+       "name_en": "Equations of motion",
+       "name_bn": "গতির সমীকরণ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C02.7",
+     "name_en": "Free fall",
+     "name_bn": "পড়ন্ত বস্তু",
+     "topics": [
+      {
+       "id": "2.8",
+       "name_en": "Laws of falling bodies",
+       "name_bn": "পড়ন্ত বস্তুর সূত্র",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "name_en": "Force",
+   "name_bn": "বল",
+   "concepts": [
+    {
+     "id": "C03.1",
+     "name_en": "Inertia and Newton's first law",
+     "name_bn": "জড়তা ও নিউটনের প্রথম সূত্র",
+     "topics": [
+      {
+       "id": "3.1",
+       "name_en": "Inertia and concept of force: Newton's first law",
+       "name_bn": "জড়তা ও বলের ধারণা: নিউটনের প্রথম সূত্র",
+       "needs_translation": false
+      },
+      {
+       "id": "3.1.1",
+       "name_en": "Inertia",
+       "name_bn": "জড়তা",
+       "needs_translation": false
+      },
+      {
+       "id": "3.1.2",
+       "name_en": "Force",
+       "name_bn": "বল",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C03.2",
+     "name_en": "Fundamental forces",
+     "name_bn": "মৌলিক বল",
+     "topics": [
+      {
+       "id": "3.2",
+       "name_en": "Nature of fundamental forces",
+       "name_bn": "মৌলিক বলের প্রকৃতি",
+       "needs_translation": false
+      },
+      {
+       "id": "3.2.1",
+       "name_en": "Gravitational force",
+       "name_bn": "মহাকর্ষ বল",
+       "needs_translation": false
+      },
+      {
+       "id": "3.2.2",
+       "name_en": "Electromagnetic force",
+       "name_bn": "তড়িৎচৌম্বক বল",
+       "needs_translation": false
+      },
+      {
+       "id": "3.2.3",
+       "name_en": "Weak nuclear force",
+       "name_bn": "দুর্বল নিউক্লীয় বল",
+       "needs_translation": false
+      },
+      {
+       "id": "3.2.4",
+       "name_en": "Strong nuclear force",
+       "name_bn": "সবল নিউক্লীয় বল",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C03.3",
+     "name_en": "Balanced and unbalanced forces",
+     "name_bn": "সাম্য ও অসাম্য বল",
+     "topics": [
+      {
+       "id": "3.3",
+       "name_en": "Balanced and unbalanced forces",
+       "name_bn": "সাম্য ও অসাম্য বল",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C03.4",
+     "name_en": "Momentum, collision and conservation",
+     "name_bn": "ভরবেগ, সংঘর্ষ ও সংরক্ষণ",
+     "topics": [
+      {
+       "id": "3.4",
+       "name_en": "Momentum",
+       "name_bn": "ভরবেগ",
+       "needs_translation": false
+      },
+      {
+       "id": "3.5",
+       "name_en": "Collision",
+       "name_bn": "সংঘর্ষ",
+       "needs_translation": false
+      },
+      {
+       "id": "3.5.1",
+       "name_en": "Conservation of momentum and energy",
+       "name_bn": "ভরবেগ ও শক্তির সংরক্ষণ",
+       "needs_translation": false
+      },
+      {
+       "id": "3.5.2",
+       "name_en": "Safe journey: velocity and motion",
+       "name_bn": "নিরাপদ ভ্রমণ: বেগ ও গতি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C03.5",
+     "name_en": "Newton's second law",
+     "name_bn": "নিউটনের দ্বিতীয় সূত্র",
+     "topics": [
+      {
+       "id": "3.6",
+       "name_en": "Effect of force on motion: Newton's second law",
+       "name_bn": "গতির ওপর বলের প্রভাব: নিউটনের দ্বিতীয় সূত্র",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C03.6",
+     "name_en": "Gravitation, g and weight",
+     "name_bn": "মহাকর্ষ, g ও ওজন",
+     "topics": [
+      {
+       "id": "3.7",
+       "name_en": "Gravitational force",
+       "name_bn": "মহাকর্ষ বল",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C03.7",
+     "name_en": "Newton's third law",
+     "name_bn": "নিউটনের তৃতীয় সূত্র",
+     "topics": [
+      {
+       "id": "3.8",
+       "name_en": "Newton's third law",
+       "name_bn": "নিউটনের তৃতীয় সূত্র",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C03.8",
+     "name_en": "Friction",
+     "name_bn": "ঘর্ষণ",
+     "topics": [
+      {
+       "id": "3.9",
+       "name_en": "Frictional force",
+       "name_bn": "ঘর্ষণ বল",
+       "needs_translation": false
+      },
+      {
+       "id": "3.9.1",
+       "name_en": "Types of friction",
+       "name_bn": "ঘর্ষণের প্রকারভেদ",
+       "needs_translation": false
+      },
+      {
+       "id": "3.9.2",
+       "name_en": "Effects of friction on motion",
+       "name_bn": "গতির ওপর ঘর্ষণের প্রভাব",
+       "needs_translation": false
+      },
+      {
+       "id": "3.9.3",
+       "name_en": "Increase and decrease of friction",
+       "name_bn": "ঘর্ষণ বৃদ্ধি ও হ্রাস",
+       "needs_translation": false
+      },
+      {
+       "id": "3.9.4",
+       "name_en": "Friction: an essential hazard",
+       "name_bn": "ঘর্ষণ: একটি প্রয়োজনীয় উপদ্রব",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "name_en": "Work, Power and Energy",
+   "name_bn": "কাজ, ক্ষমতা ও শক্তি",
+   "concepts": [
+    {
+     "id": "C04.1",
+     "name_en": "Work",
+     "name_bn": "কাজ",
+     "topics": [
+      {
+       "id": "4.1",
+       "name_en": "Work",
+       "name_bn": "কাজ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C04.2",
+     "name_en": "Energy and kinetic energy",
+     "name_bn": "শক্তি ও গতিশক্তি",
+     "topics": [
+      {
+       "id": "4.2",
+       "name_en": "Energy",
+       "name_bn": "শক্তি",
+       "needs_translation": false
+      },
+      {
+       "id": "4.3",
+       "name_en": "Different forms of energy",
+       "name_bn": "শক্তির বিভিন্ন রূপ",
+       "needs_translation": false
+      },
+      {
+       "id": "4.3.1",
+       "name_en": "Kinetic energy",
+       "name_bn": "গতিশক্তি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C04.3",
+     "name_en": "Potential energy",
+     "name_bn": "বিভব শক্তি",
+     "topics": [
+      {
+       "id": "4.3.2",
+       "name_en": "Potential energy",
+       "name_bn": "বিভব শক্তি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C04.4",
+     "name_en": "Sources of energy",
+     "name_bn": "শক্তির উৎস",
+     "topics": [
+      {
+       "id": "4.4",
+       "name_en": "Sources of energy",
+       "name_bn": "শক্তির উৎস",
+       "needs_translation": false
+      },
+      {
+       "id": "4.4.1",
+       "name_en": "Non-renewable energy",
+       "name_bn": "অনবায়নযোগ্য শক্তি",
+       "needs_translation": false
+      },
+      {
+       "id": "4.4.2",
+       "name_en": "Renewable energy",
+       "name_bn": "নবায়নযোগ্য শক্তি",
+       "needs_translation": false
+      },
+      {
+       "id": "4.4.3",
+       "name_en": "Transformation of energy and impact on environment",
+       "name_bn": "শক্তির রূপান্তর ও পরিবেশের ওপর প্রভাব",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C04.5",
+     "name_en": "Conservation and transformation of energy",
+     "name_bn": "শক্তির সংরক্ষণ ও রূপান্তর",
+     "topics": [
+      {
+       "id": "4.5",
+       "name_en": "Conservation and transformation of energy",
+       "name_bn": "শক্তির সংরক্ষণ ও রূপান্তর",
+       "needs_translation": false
+      },
+      {
+       "id": "4.5.1",
+       "name_en": "Conservation of energy",
+       "name_bn": "শক্তির সংরক্ষণশীলতা",
+       "needs_translation": false
+      },
+      {
+       "id": "4.5.2",
+       "name_en": "Transformation of energy",
+       "name_bn": "শক্তির রূপান্তর",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C04.6",
+     "name_en": "Mass–energy relation",
+     "name_bn": "ভর-শক্তি সম্পর্ক",
+     "topics": [
+      {
+       "id": "4.6",
+       "name_en": "Relation between mass and energy",
+       "name_bn": "ভর ও শক্তির সম্পর্ক",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C04.7",
+     "name_en": "Power",
+     "name_bn": "ক্ষমতা",
+     "topics": [
+      {
+       "id": "4.7",
+       "name_en": "Power",
+       "name_bn": "ক্ষমতা",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C04.8",
+     "name_en": "Efficiency",
+     "name_bn": "কর্মদক্ষতা",
+     "topics": [
+      {
+       "id": "4.8",
+       "name_en": "Efficiency",
+       "name_bn": "কর্মদক্ষতা",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "name_en": "State of Matter and Pressure",
+   "name_bn": "পদার্থের অবস্থা ও চাপ",
+   "concepts": [
+    {
+     "id": "C05.1",
+     "name_en": "Pressure",
+     "name_bn": "চাপ",
+     "topics": [
+      {
+       "id": "5.1",
+       "name_en": "Pressure",
+       "name_bn": "চাপ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C05.2",
+     "name_en": "Density",
+     "name_bn": "ঘনত্ব",
+     "topics": [
+      {
+       "id": "5.2",
+       "name_en": "Density",
+       "name_bn": "ঘনত্ব",
+       "needs_translation": false
+      },
+      {
+       "id": "5.2.1",
+       "name_en": "Uses of density in our daily life",
+       "name_bn": "দৈনন্দিন জীবনে ঘনত্বের ব্যবহার",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C05.3",
+     "name_en": "Pressure in liquids",
+     "name_bn": "তরলের চাপ",
+     "topics": [
+      {
+       "id": "5.3",
+       "name_en": "Pressure in liquids",
+       "name_bn": "তরলের চাপ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C05.4",
+     "name_en": "Buoyancy, Archimedes' principle and flotation",
+     "name_bn": "প্লবতা, আর্কিমিডিসের নীতি ও ভাসন",
+     "topics": [
+      {
+       "id": "5.3.1",
+       "name_en": "Archimedes' principle and buoyancy",
+       "name_bn": "আর্কিমিডিসের নীতি ও প্লবতা",
+       "needs_translation": false
+      },
+      {
+       "id": "5.3.2",
+       "name_en": "Floatation and immersion of a body",
+       "name_bn": "বস্তুর ভাসন ও নিমজ্জন",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C05.5",
+     "name_en": "Pascal's law",
+     "name_bn": "প্যাসকেলের সূত্র",
+     "topics": [
+      {
+       "id": "5.3.4",
+       "name_en": "Pascal's law",
+       "name_bn": "প্যাসকেলের সূত্র",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C05.6",
+     "name_en": "Air pressure",
+     "name_bn": "বায়ুমণ্ডলীয় চাপ",
+     "topics": [
+      {
+       "id": "5.4",
+       "name_en": "Air pressure",
+       "name_bn": "বায়ুমণ্ডলীয় চাপ",
+       "needs_translation": false
+      },
+      {
+       "id": "5.4.1",
+       "name_en": "Experiment of Torricelli",
+       "name_bn": "টরিসেলির পরীক্ষা",
+       "needs_translation": false
+      },
+      {
+       "id": "5.4.2",
+       "name_en": "Air pressure and weather",
+       "name_bn": "বায়ুচাপ ও আবহাওয়া",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C05.7",
+     "name_en": "Elasticity",
+     "name_bn": "স্থিতিস্থাপকতা",
+     "topics": [
+      {
+       "id": "5.5",
+       "name_en": "Elasticity",
+       "name_bn": "স্থিতিস্থাপকতা",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C05.8",
+     "name_en": "States of matter and kinetic theory",
+     "name_bn": "পদার্থের অবস্থা ও আণবিক গতিতত্ত্ব",
+     "topics": [
+      {
+       "id": "5.6",
+       "name_en": "Three states of matter",
+       "name_bn": "পদার্থের তিন অবস্থা: কঠিন, তরল ও বায়বীয়",
+       "needs_translation": false
+      },
+      {
+       "id": "5.6.1",
+       "name_en": "Molecular kinetic theory of matter",
+       "name_bn": "পদার্থের আণবিক গতিতত্ত্ব",
+       "needs_translation": false
+      },
+      {
+       "id": "5.6.2",
+       "name_en": "Fourth state of substance (plasma)",
+       "name_bn": "পদার্থের চতুর্থ অবস্থা (প্লাজমা)",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "name_en": "Effect of Heat on Matter",
+   "name_bn": "বস্তুর ওপর তাপের প্রভাব",
+   "concepts": [
+    {
+     "id": "C06.1",
+     "name_en": "Heat, temperature and internal energy",
+     "name_bn": "তাপ, তাপমাত্রা ও অভ্যন্তরীণ শক্তি",
+     "topics": [
+      {
+       "id": "6.1",
+       "name_en": "Heat and temperature",
+       "name_bn": "তাপ ও তাপমাত্রা",
+       "needs_translation": false
+      },
+      {
+       "id": "6.1.1",
+       "name_en": "Internal energy",
+       "name_bn": "অভ্যন্তরীণ শক্তি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C06.2",
+     "name_en": "Thermometry and temperature scales",
+     "name_bn": "তাপমিতি ও তাপমাত্রার স্কেল",
+     "topics": [
+      {
+       "id": "6.2",
+       "name_en": "Thermal properties of matter",
+       "name_bn": "পদার্থের তাপমাত্রিক ধর্ম",
+       "needs_translation": false
+      },
+      {
+       "id": "6.2.1",
+       "name_en": "Relation among different scales",
+       "name_bn": "বিভিন্ন স্কেলের মধ্যে সম্পর্ক",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C06.3",
+     "name_en": "Thermal expansion",
+     "name_bn": "তাপীয় প্রসারণ",
+     "topics": [
+      {
+       "id": "6.3",
+       "name_en": "Thermal expansion of matter",
+       "name_bn": "পদার্থের তাপীয় প্রসারণ",
+       "needs_translation": false
+      },
+      {
+       "id": "6.3.1",
+       "name_en": "Expansion of solids",
+       "name_bn": "কঠিন পদার্থের প্রসারণ",
+       "needs_translation": false
+      },
+      {
+       "id": "6.3.2",
+       "name_en": "Expansion of liquids",
+       "name_bn": "তরলের প্রসারণ",
+       "needs_translation": false
+      },
+      {
+       "id": "6.3.3",
+       "name_en": "Expansion of gases",
+       "name_bn": "গ্যাসের প্রসারণ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C06.4",
+     "name_en": "Change of state, latent heat and evaporation",
+     "name_bn": "অবস্থার পরিবর্তন, সুপ্ততাপ ও বাষ্পায়ন",
+     "topics": [
+      {
+       "id": "6.4",
+       "name_en": "Effect of temperature in change of state",
+       "name_bn": "অবস্থার পরিবর্তনে তাপমাত্রার প্রভাব",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C06.5",
+     "name_en": "Specific heat and calorimetry",
+     "name_bn": "আপেক্ষিক তাপ ও ক্যালরিমিতি",
+     "topics": [
+      {
+       "id": "6.5",
+       "name_en": "Specific heat",
+       "name_bn": "আপেক্ষিক তাপ",
+       "needs_translation": false
+      },
+      {
+       "id": "6.6",
+       "name_en": "Fundamental principles of calorimetry",
+       "name_bn": "ক্যালরিমিতির মূলনীতি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C06.6",
+     "name_en": "Effect of pressure on melting and boiling point",
+     "name_bn": "গলনাঙ্ক ও স্ফুটনাঙ্কের ওপর চাপের প্রভাব",
+     "topics": [
+      {
+       "id": "6.7",
+       "name_en": "Effect of pressure on melting point and boiling point",
+       "name_bn": "গলনাঙ্ক ও স্ফুটনাঙ্কের ওপর চাপের প্রভাব",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "name_en": "Waves and Sound",
+   "name_bn": "তরঙ্গ ও শব্দ",
+   "concepts": [
+    {
+     "id": "C07.1",
+     "name_en": "Simple harmonic motion and pendulum",
+     "name_bn": "সরল ছন্দিত স্পন্দন ও দোলক",
+     "topics": [
+      {
+       "id": "7.1",
+       "name_en": "Simple harmonic motion",
+       "name_bn": "সরল ছন্দিত স্পন্দন",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C07.2",
+     "name_en": "Waves: characteristics and types",
+     "name_bn": "তরঙ্গ: বৈশিষ্ট্য ও প্রকারভেদ",
+     "topics": [
+      {
+       "id": "7.2",
+       "name_en": "Wave",
+       "name_bn": "তরঙ্গ",
+       "needs_translation": false
+      },
+      {
+       "id": "7.2.1",
+       "name_en": "Characteristics of waves",
+       "name_bn": "তরঙ্গের বৈশিষ্ট্য",
+       "needs_translation": false
+      },
+      {
+       "id": "7.2.2",
+       "name_en": "Types of waves",
+       "name_bn": "তরঙ্গের প্রকারভেদ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C07.3",
+     "name_en": "Wave quantities (λ, f, T, v)",
+     "name_bn": "তরঙ্গ সংশ্লিষ্ট রাশি (λ, f, T, v)",
+     "topics": [
+      {
+       "id": "7.2.3",
+       "name_en": "Wave related quantities",
+       "name_bn": "তরঙ্গ সংশ্লিষ্ট রাশি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C07.4",
+     "name_en": "Sound and its velocity",
+     "name_bn": "শব্দ ও শব্দের বেগ",
+     "topics": [
+      {
+       "id": "7.3",
+       "name_en": "Sound wave",
+       "name_bn": "শব্দ তরঙ্গ",
+       "needs_translation": false
+      },
+      {
+       "id": "7.3.2",
+       "name_en": "Variation of velocity of sound",
+       "name_bn": "শব্দের বেগের তারতম্য",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C07.5",
+     "name_en": "Echo",
+     "name_bn": "প্রতিধ্বনি",
+     "topics": [
+      {
+       "id": "7.3.1",
+       "name_en": "Echo",
+       "name_bn": "প্রতিধ্বনি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C07.6",
+     "name_en": "Uses of sound and ultrasound",
+     "name_bn": "শব্দ ও শব্দোত্তর তরঙ্গের ব্যবহার",
+     "topics": [
+      {
+       "id": "7.3.3",
+       "name_en": "Uses of sound",
+       "name_bn": "শব্দের ব্যবহার",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C07.7",
+     "name_en": "Musical sound and its characteristics",
+     "name_bn": "সুরযুক্ত শব্দ ও এর বৈশিষ্ট্য",
+     "topics": [
+      {
+       "id": "7.3.4",
+       "name_en": "Musical sound",
+       "name_bn": "সুরযুক্ত শব্দ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C07.8",
+     "name_en": "Sound pollution",
+     "name_bn": "শব্দদূষণ",
+     "topics": [
+      {
+       "id": "7.3.5",
+       "name_en": "Sound pollution",
+       "name_bn": "শব্দদূষণ",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "name_en": "Reflection of Light",
+   "name_bn": "আলোর প্রতিফলন",
+   "concepts": [
+    {
+     "id": "C08.1",
+     "name_en": "Nature of light and electromagnetic spectrum",
+     "name_bn": "আলোর প্রকৃতি ও তাড়িতচৌম্বক বর্ণালি",
+     "topics": [
+      {
+       "id": "8.1",
+       "name_en": "Nature of light",
+       "name_bn": "আলোর প্রকৃতি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C08.2",
+     "name_en": "Reflection and its laws",
+     "name_bn": "প্রতিফলন ও এর সূত্র",
+     "topics": [
+      {
+       "id": "8.2",
+       "name_en": "Reflection",
+       "name_bn": "প্রতিফলন",
+       "needs_translation": false
+      },
+      {
+       "id": "8.2.1",
+       "name_en": "Laws of reflection",
+       "name_bn": "প্রতিফলনের সূত্র",
+       "needs_translation": false
+      },
+      {
+       "id": "8.2.3",
+       "name_en": "Reflection from smooth and rough planes",
+       "name_bn": "মসৃণ ও অমসৃণ তলে প্রতিফলন",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C08.3",
+     "name_en": "Plane mirror and images",
+     "name_bn": "সমতল দর্পণ ও প্রতিবিম্ব",
+     "topics": [
+      {
+       "id": "8.3",
+       "name_en": "Mirror",
+       "name_bn": "দর্পণ",
+       "needs_translation": false
+      },
+      {
+       "id": "8.3.1",
+       "name_en": "Image",
+       "name_bn": "প্রতিবিম্ব",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C08.4",
+     "name_en": "Spherical mirror terminology",
+     "name_bn": "গোলীয় দর্পণ সংশ্লিষ্ট শব্দাবলি",
+     "topics": [
+      {
+       "id": "8.4",
+       "name_en": "Spherical mirror",
+       "name_bn": "গোলীয় দর্পণ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C08.5",
+     "name_en": "Convex mirror and its images",
+     "name_bn": "উত্তল দর্পণ ও প্রতিবিম্ব",
+     "topics": [
+      {
+       "id": "8.5",
+       "name_en": "Convex mirror",
+       "name_bn": "উত্তল দর্পণ",
+       "needs_translation": false
+      },
+      {
+       "id": "8.5.1",
+       "name_en": "Image in a spherical convex mirror",
+       "name_bn": "উত্তল দর্পণে প্রতিবিম্ব",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C08.6",
+     "name_en": "Concave mirror and its images",
+     "name_bn": "অবতল দর্পণ ও প্রতিবিম্ব",
+     "topics": [
+      {
+       "id": "8.6",
+       "name_en": "Concave mirror",
+       "name_bn": "অবতল দর্পণ",
+       "needs_translation": false
+      },
+      {
+       "id": "8.6.1",
+       "name_en": "Image on concave mirror",
+       "name_bn": "অবতল দর্পণে প্রতিবিম্ব",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C08.7",
+     "name_en": "Magnification and mirror calculations",
+     "name_bn": "বিবর্ধন ও দর্পণের হিসাব",
+     "topics": [
+      {
+       "id": "8.7",
+       "name_en": "Magnification",
+       "name_bn": "বিবর্ধন",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C08.8",
+     "name_en": "Uses of mirrors",
+     "name_bn": "দর্পণের ব্যবহার",
+     "topics": [
+      {
+       "id": "8.8",
+       "name_en": "Uses of mirrors",
+       "name_bn": "দর্পণের ব্যবহার",
+       "needs_translation": false
+      },
+      {
+       "id": "8.8.1",
+       "name_en": "Plane mirror",
+       "name_bn": "সমতল দর্পণ",
+       "needs_translation": false
+      },
+      {
+       "id": "8.8.2",
+       "name_en": "Convex mirror",
+       "name_bn": "উত্তল দর্পণ",
+       "needs_translation": false
+      },
+      {
+       "id": "8.8.3",
+       "name_en": "Concave mirror",
+       "name_bn": "অবতল দর্পণ",
+       "needs_translation": false
+      },
+      {
+       "id": "8.8.4",
+       "name_en": "Safe driving",
+       "name_bn": "নিরাপদ ড্রাইভিং",
+       "needs_translation": false
+      },
+      {
+       "id": "8.8.5",
+       "name_en": "Invisible curves of hilly roads",
+       "name_bn": "পাহাড়ি রাস্তার অদৃশ্য বাঁক",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "name_en": "Refraction of Light",
+   "name_bn": "আলোর প্রতিসরণ",
+   "concepts": [
+    {
+     "id": "C09.1",
+     "name_en": "Refraction, its laws and refractive index",
+     "name_bn": "প্রতিসরণ, এর সূত্র ও প্রতিসরণাঙ্ক",
+     "topics": [
+      {
+       "id": "9.1",
+       "name_en": "Refraction of light",
+       "name_bn": "আলোর প্রতিসরণ",
+       "needs_translation": false
+      },
+      {
+       "id": "9.1.1",
+       "name_en": "Laws of refraction",
+       "name_bn": "প্রতিসরণের সূত্র",
+       "needs_translation": false
+      },
+      {
+       "id": "9.1.3",
+       "name_en": "Relative refractive index",
+       "name_bn": "আপেক্ষিক প্রতিসরণাঙ্ক",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C09.2",
+     "name_en": "Total internal reflection and critical angle",
+     "name_bn": "পূর্ণ অভ্যন্তরীণ প্রতিফলন ও সংকট কোণ",
+     "topics": [
+      {
+       "id": "9.2",
+       "name_en": "Total internal reflection",
+       "name_bn": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+       "needs_translation": false
+      },
+      {
+       "id": "9.2.1",
+       "name_en": "Rainbow",
+       "name_bn": "রংধনু",
+       "needs_translation": false
+      },
+      {
+       "id": "9.2.2",
+       "name_en": "Mirage",
+       "name_bn": "মরীচিকা",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C09.3",
+     "name_en": "Optical fibre, periscope and prism",
+     "name_bn": "আলোক নল, পেরিস্কোপ ও প্রিজম",
+     "topics": [
+      {
+       "id": "9.3",
+       "name_en": "Uses of refraction",
+       "name_bn": "প্রতিসরণের ব্যবহার",
+       "needs_translation": false
+      },
+      {
+       "id": "9.3.1",
+       "name_en": "Optical fiber",
+       "name_bn": "আলোক নল (অপটিক্যাল ফাইবার)",
+       "needs_translation": false
+      },
+      {
+       "id": "9.3.2",
+       "name_en": "Periscope and binocular",
+       "name_bn": "পেরিস্কোপ ও বাইনোকুলার",
+       "needs_translation": false
+      },
+      {
+       "id": "9.3.3",
+       "name_en": "Prism",
+       "name_bn": "প্রিজম",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C09.4",
+     "name_en": "Lenses and lens terminology",
+     "name_bn": "লেন্স ও লেন্স সংশ্লিষ্ট শব্দাবলি",
+     "topics": [
+      {
+       "id": "9.3.4",
+       "name_en": "Lens",
+       "name_bn": "লেন্স",
+       "needs_translation": false
+      },
+      {
+       "id": "9.4",
+       "name_en": "Types of lenses",
+       "name_bn": "লেন্সের প্রকারভেদ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C09.5",
+     "name_en": "Image formation by lenses",
+     "name_bn": "লেন্সে প্রতিবিম্ব গঠন",
+     "topics": [
+      {
+       "id": "9.4.1",
+       "name_en": "Concave lens",
+       "name_bn": "অবতল লেন্স",
+       "needs_translation": false
+      },
+      {
+       "id": "9.4.2",
+       "name_en": "Convex lens",
+       "name_bn": "উত্তল লেন্স",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C09.6",
+     "name_en": "Power of a lens",
+     "name_bn": "লেন্সের ক্ষমতা",
+     "topics": [
+      {
+       "id": "9.4.3",
+       "name_en": "Power of lens",
+       "name_bn": "লেন্সের ক্ষমতা",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "name_en": "Static Electricity",
+   "name_bn": "স্থির বিদ্যুৎ",
+   "concepts": [
+    {
+     "id": "C10.1",
+     "name_en": "Charge and charging by friction",
+     "name_bn": "আধান ও ঘর্ষণে স্থির বিদ্যুৎ",
+     "topics": [
+      {
+       "id": "10.1",
+       "name_en": "Charge",
+       "name_bn": "আধান",
+       "needs_translation": false
+      },
+      {
+       "id": "10.2",
+       "name_en": "Static electricity by friction",
+       "name_bn": "ঘর্ষণে স্থির বিদ্যুৎ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C10.2",
+     "name_en": "Electrostatic induction and electroscope",
+     "name_bn": "তড়িৎ আবেশ ও তড়িৎবীক্ষণ যন্ত্র",
+     "topics": [
+      {
+       "id": "10.3",
+       "name_en": "Electrical induction",
+       "name_bn": "তড়িৎ আবেশ",
+       "needs_translation": false
+      },
+      {
+       "id": "10.3.1",
+       "name_en": "Electroscope",
+       "name_bn": "তড়িৎবীক্ষণ যন্ত্র",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C10.3",
+     "name_en": "Electric force (Coulomb's law)",
+     "name_bn": "তড়িৎ বল (কুলম্বের সূত্র)",
+     "topics": [
+      {
+       "id": "10.4",
+       "name_en": "Electric force",
+       "name_bn": "তড়িৎ বল",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C10.4",
+     "name_en": "Electric field and lines of force",
+     "name_bn": "তড়িৎক্ষেত্র ও বলরেখা",
+     "topics": [
+      {
+       "id": "10.5",
+       "name_en": "Electric field",
+       "name_bn": "তড়িৎক্ষেত্র",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C10.5",
+     "name_en": "Electric potential and potential difference",
+     "name_bn": "তড়িৎ বিভব ও বিভব পার্থক্য",
+     "topics": [
+      {
+       "id": "10.6",
+       "name_en": "Electric potential",
+       "name_bn": "তড়িৎ বিভব",
+       "needs_translation": false
+      },
+      {
+       "id": "10.6.1",
+       "name_en": "Potential difference",
+       "name_bn": "বিভব পার্থক্য",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C10.6",
+     "name_en": "Capacitor",
+     "name_bn": "ধারক",
+     "topics": [
+      {
+       "id": "10.7",
+       "name_en": "Capacitor",
+       "name_bn": "ধারক",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C10.7",
+     "name_en": "Uses of static electricity and lightning",
+     "name_bn": "স্থির বিদ্যুতের ব্যবহার ও বজ্রপাত",
+     "topics": [
+      {
+       "id": "10.8",
+       "name_en": "Uses of static electricity",
+       "name_bn": "স্থির বিদ্যুতের ব্যবহার",
+       "needs_translation": false
+      },
+      {
+       "id": "10.8.1",
+       "name_en": "Photocopy",
+       "name_bn": "ফটোকপি",
+       "needs_translation": false
+      },
+      {
+       "id": "10.8.2",
+       "name_en": "Van de Graaff machine",
+       "name_bn": "ভ্যান ডি গ্রাফ যন্ত্র",
+       "needs_translation": false
+      },
+      {
+       "id": "10.8.3",
+       "name_en": "Fuel truck",
+       "name_bn": "জ্বালানি ট্রাক",
+       "needs_translation": false
+      },
+      {
+       "id": "10.8.4",
+       "name_en": "Electronics",
+       "name_bn": "ইলেকট্রনিকস",
+       "needs_translation": false
+      },
+      {
+       "id": "10.8.5",
+       "name_en": "Lightning and lightning arrestor",
+       "name_bn": "বজ্রপাত ও বজ্রনিরোধক",
+       "needs_translation": false
+      },
+      {
+       "id": "10.8.6",
+       "name_en": "Static electric colour spray",
+       "name_bn": "স্থির বিদ্যুৎ রং স্প্রে",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "name_en": "Current Electricity",
+   "name_bn": "চল বিদ্যুৎ",
+   "concepts": [
+    {
+     "id": "C11.1",
+     "name_en": "Current, emf and potential difference",
+     "name_bn": "তড়িৎ প্রবাহ, তড়িচ্চালক শক্তি ও বিভব পার্থক্য",
+     "topics": [
+      {
+       "id": "11.1",
+       "name_en": "Electric current",
+       "name_bn": "তড়িৎ প্রবাহ",
+       "needs_translation": false
+      },
+      {
+       "id": "11.1.1",
+       "name_en": "Electromotive force and potential difference",
+       "name_bn": "তড়িচ্চালক শক্তি ও বিভব পার্থক্য",
+       "needs_translation": false
+      },
+      {
+       "id": "11.1.3",
+       "name_en": "Direction of electric flow",
+       "name_bn": "তড়িৎ প্রবাহের দিক",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C11.2",
+     "name_en": "Conductors, insulators and semiconductors",
+     "name_bn": "পরিবাহী, অন্তরক ও অর্ধপরিবাহী",
+     "topics": [
+      {
+       "id": "11.1.2",
+       "name_en": "Conductor, insulator and semiconductor",
+       "name_bn": "পরিবাহী, অন্তরক ও অর্ধপরিবাহী",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C11.3",
+     "name_en": "Ohm's law, resistance and resistivity",
+     "name_bn": "ওহমের সূত্র, রোধ ও আপেক্ষিক রোধ",
+     "topics": [
+      {
+       "id": "11.2",
+       "name_en": "Relation between potential difference and current",
+       "name_bn": "বিভব পার্থক্য ও তড়িৎ প্রবাহের সম্পর্ক",
+       "needs_translation": false
+      },
+      {
+       "id": "11.2.1",
+       "name_en": "Ohm's law",
+       "name_bn": "ওহমের সূত্র",
+       "needs_translation": false
+      },
+      {
+       "id": "11.2.2",
+       "name_en": "Resistance",
+       "name_bn": "রোধ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C11.4",
+     "name_en": "Circuits and equivalent resistance",
+     "name_bn": "বর্তনী ও তুল্যরোধ",
+     "topics": [
+      {
+       "id": "11.2.3",
+       "name_en": "Circuit",
+       "name_bn": "বর্তনী",
+       "needs_translation": false
+      },
+      {
+       "id": "11.2.4",
+       "name_en": "Equivalent resistance: series circuit",
+       "name_bn": "তুল্যরোধ: শ্রেণি সংযোগ",
+       "needs_translation": false
+      },
+      {
+       "id": "11.2.5",
+       "name_en": "Equivalent resistance: parallel circuit",
+       "name_bn": "তুল্যরোধ: সমান্তরাল সংযোগ",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C11.5",
+     "name_en": "Electric power and energy",
+     "name_bn": "তড়িৎ ক্ষমতা ও শক্তি",
+     "topics": [
+      {
+       "id": "11.3",
+       "name_en": "Electric power",
+       "name_bn": "তড়িৎ ক্ষমতা",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C11.6",
+     "name_en": "Electricity supply and safe use",
+     "name_bn": "বিদ্যুৎ সরবরাহ ও নিরাপদ ব্যবহার",
+     "topics": [
+      {
+       "id": "11.4",
+       "name_en": "Electrical supply",
+       "name_bn": "বিদ্যুৎ সরবরাহ",
+       "needs_translation": false
+      },
+      {
+       "id": "11.4.1",
+       "name_en": "System loss of electricity",
+       "name_bn": "বিদ্যুতের সিস্টেম লস",
+       "needs_translation": false
+      },
+      {
+       "id": "11.4.2",
+       "name_en": "Load shedding",
+       "name_bn": "লোডশেডিং",
+       "needs_translation": false
+      },
+      {
+       "id": "11.5",
+       "name_en": "Safe use of electricity",
+       "name_bn": "বিদ্যুতের নিরাপদ ব্যবহার",
+       "needs_translation": false
+      },
+      {
+       "id": "11.6",
+       "name_en": "Design of circuit in residence",
+       "name_bn": "বাসাবাড়িতে বর্তনীর নকশা",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "name_en": "Magnetic Effects of Current",
+   "name_bn": "বিদ্যুতের চৌম্বক ক্রিয়া",
+   "concepts": [
+    {
+     "id": "C12.1",
+     "name_en": "Magnets and magnetic field",
+     "name_bn": "চুম্বক ও চৌম্বকক্ষেত্র",
+     "topics": [
+      {
+       "id": "12.1",
+       "name_en": "Magnet",
+       "name_bn": "চুম্বক",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C12.2",
+     "name_en": "Magnetic effect of current, solenoid and electromagnet",
+     "name_bn": "তড়িৎপ্রবাহের চৌম্বক ক্রিয়া, সলিনয়েড ও তড়িৎচুম্বক",
+     "topics": [
+      {
+       "id": "12.2",
+       "name_en": "Magnetic effects of current",
+       "name_bn": "তড়িৎপ্রবাহের চৌম্বক ক্রিয়া",
+       "needs_translation": false
+      },
+      {
+       "id": "12.2.1",
+       "name_en": "Solenoid",
+       "name_bn": "সলিনয়েড",
+       "needs_translation": false
+      },
+      {
+       "id": "12.2.2",
+       "name_en": "Electromagnet",
+       "name_bn": "তড়িৎচুম্বক",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C12.3",
+     "name_en": "Force on a current-carrying wire and DC motor",
+     "name_bn": "তড়িৎবাহী তারের ওপর বল ও ডিসি মোটর",
+     "topics": [
+      {
+       "id": "12.2.3",
+       "name_en": "Effect of magnet on a current-carrying wire",
+       "name_bn": "তড়িৎবাহী তারের ওপর চুম্বকের প্রভাব",
+       "needs_translation": false
+      },
+      {
+       "id": "12.2.4",
+       "name_en": "D.C. motor",
+       "name_bn": "ডিসি মোটর",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C12.4",
+     "name_en": "Electromagnetic induction and generator",
+     "name_bn": "তাড়িতচৌম্বক আবেশ ও জেনারেটর",
+     "topics": [
+      {
+       "id": "12.3",
+       "name_en": "Electromagnetic induction",
+       "name_bn": "তাড়িতচৌম্বক আবেশ",
+       "needs_translation": false
+      },
+      {
+       "id": "12.3.1",
+       "name_en": "Generator",
+       "name_bn": "জেনারেটর",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C12.5",
+     "name_en": "Transformer",
+     "name_bn": "ট্রান্সফর্মার",
+     "topics": [
+      {
+       "id": "12.3.2",
+       "name_en": "Transformer",
+       "name_bn": "ট্রান্সফর্মার",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "name_en": "Radioactivity and Electronics",
+   "name_bn": "তেজস্ক্রিয়তা ও ইলেকট্রনিকস",
+   "concepts": [
+    {
+     "id": "C13.1",
+     "name_en": "Radioactivity and radiations (α, β, γ)",
+     "name_bn": "তেজস্ক্রিয়তা ও রশ্মি (α, β, γ)",
+     "topics": [
+      {
+       "id": "13.1",
+       "name_en": "Radioactivity",
+       "name_bn": "তেজস্ক্রিয়তা",
+       "needs_translation": false
+      },
+      {
+       "id": "13.1.1",
+       "name_en": "Alpha ray",
+       "name_bn": "আলফা রশ্মি",
+       "needs_translation": false
+      },
+      {
+       "id": "13.1.2",
+       "name_en": "Beta ray",
+       "name_bn": "বিটা রশ্মি",
+       "needs_translation": false
+      },
+      {
+       "id": "13.1.3",
+       "name_en": "Gamma ray",
+       "name_bn": "গামা রশ্মি",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C13.2",
+     "name_en": "Half-life",
+     "name_bn": "অর্ধায়ু",
+     "topics": [
+      {
+       "id": "13.1.4",
+       "name_en": "Half life",
+       "name_bn": "অর্ধায়ু",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C13.3",
+     "name_en": "Uses and cautions of radioactivity",
+     "name_bn": "তেজস্ক্রিয়তার ব্যবহার ও সতর্কতা",
+     "topics": [
+      {
+       "id": "13.1.5",
+       "name_en": "Uses of radioactivity",
+       "name_bn": "তেজস্ক্রিয়তার ব্যবহার",
+       "needs_translation": false
+      },
+      {
+       "id": "13.1.6",
+       "name_en": "Cautions about radioactivity",
+       "name_bn": "তেজস্ক্রিয়তার সতর্কতা",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C13.4",
+     "name_en": "Development of electronics",
+     "name_bn": "ইলেকট্রনিকসের ক্রমবিকাশ",
+     "topics": [
+      {
+       "id": "13.2",
+       "name_en": "Development of electronics",
+       "name_bn": "ইলেকট্রনিকসের ক্রমবিকাশ",
+       "needs_translation": false
+      },
+      {
+       "id": "13.2.1",
+       "name_en": "Vacuum tube",
+       "name_bn": "ভ্যাকুয়াম টিউব",
+       "needs_translation": false
+      },
+      {
+       "id": "13.2.2",
+       "name_en": "Transistor",
+       "name_bn": "ট্রানজিস্টর",
+       "needs_translation": false
+      },
+      {
+       "id": "13.2.3",
+       "name_en": "Integrated circuit",
+       "name_bn": "সমন্বিত বর্তনী (IC)",
+       "needs_translation": false
+      },
+      {
+       "id": "13.2.4",
+       "name_en": "Electronics of future",
+       "name_bn": "ভবিষ্যতের ইলেকট্রনিকস",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C13.5",
+     "name_en": "Analog and digital electronics",
+     "name_bn": "অ্যানালগ ও ডিজিটাল ইলেকট্রনিকস",
+     "topics": [
+      {
+       "id": "13.3",
+       "name_en": "Analog and digital electronics",
+       "name_bn": "অ্যানালগ ও ডিজিটাল ইলেকট্রনিকস",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C13.6",
+     "name_en": "Semiconductors and doping",
+     "name_bn": "অর্ধপরিবাহী ও ডোপিং",
+     "topics": [
+      {
+       "id": "13.4",
+       "name_en": "Semiconductor",
+       "name_bn": "অর্ধপরিবাহী",
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "id": "C13.7",
+     "name_en": "Health issues of computer use",
+     "name_bn": "কম্পিউটার ব্যবহারের স্বাস্থ্যঝুঁকি",
+     "topics": [
+      {
+       "id": "13.7.1",
+       "name_en": "Physical problems",
+       "name_bn": "শারীরিক সমস্যা",
+       "needs_translation": false
+      },
+      {
+       "id": "13.7.2",
+       "name_en": "Mental problem",
+       "name_bn": "মানসিক সমস্যা",
+       "needs_translation": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
